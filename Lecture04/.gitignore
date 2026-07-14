@@ -1,2 +1,4 @@
 .env
 .DS_store
+
+*_plan.md
