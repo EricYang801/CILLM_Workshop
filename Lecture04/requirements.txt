@@ -4,3 +4,4 @@ ipykernel==7.1.0
 notebook>=7.2,<8
 jupyterlab>=4.2,<5
 nbconvert>=7.16,<8
+nemoguardrails==0.23.0
